@@ -4,7 +4,8 @@
 
 
 <!-- Header personalizado -->
-![Header](https://github.com/user-attachments/assets/3df7eab0-7e74-4775-8e8a-afb2d2612ae5)
+![Header](https://github.com/user-attachments/assets/2905da4b-3f6c-48e9-a0c3-fd20628cb9c8)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsabelliCassi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
